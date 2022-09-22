@@ -1,0 +1,217 @@
+{
+    "message": "Successful",
+    "result": {
+        "Success": true,
+        "SearchID": "BdMwhq8Q2BKAGZwlCAAAAA",
+        "SearchResult": [
+            {
+                "Itinerary": [
+                    {
+                        "JourneyInfo": {
+                            "TotalTravelDurationInMinutes": "0D 16H 30M",
+                            "NoOfStop": 1
+                        },
+                        "OriginDestination": [
+                            {
+                                "AirSegment_Key": "BdMwhq8Q2BKAHZwlCAAAAA==",
+                                "Group": 0,
+                                "Carrier": "QF",
+                                "FlightNumber": 630,
+                                "OriginCode": "AVV",
+                                "OriginAirportName": "Melbourne",
+                                "DestinationCode": "OOL",
+                                "DestinationAirportName": "Gold Coast",
+                                "DepartureTime": "2022-08-29T16:05:00",
+                                "ArrivalTime": "2022-08-29T18:05:00",
+                                "TravelDurationInMinutes": 120,
+                                "Distance": 0,
+                                "LayoverTimeInMinutes": "",
+                                "AvailabilitySource": "A",
+                                "OperatingCarrier": "JQ",
+                                "OperatingFlightNumber": 630,
+                                "OriginTerminal": null,
+                                "DestinationTerminal": null,
+                                "BookingClass": "H",
+                                "BookingCount": 9,
+                                "CabinClass": "E",
+                                "FareBasis": "HLOW",
+                                "AirBaggageAllowance": "",
+                                "Equipment": "Airbus A320"
+                            },
+                            {
+                                "AirSegment_Key": "BdMwhq8Q2BKAHZwlCAAAAA==",
+                                "Group": 0,
+                                "Carrier": "QF",
+                                "FlightNumber": 591,
+                                "OriginCode": "OOL",
+                                "OriginAirportName": "Gold Coast",
+                                "DestinationCode": "SYD",
+                                "DestinationAirportName": "Sydney",
+                                "DepartureTime": "2022-08-30T07:05:00",
+                                "ArrivalTime": "2022-08-30T08:35:00",
+                                "TravelDurationInMinutes": 90,
+                                "Distance": 0,
+                                "LayoverTimeInMinutes": "13H 0M",
+                                "AvailabilitySource": "A",
+                                "OperatingCarrier": "QF",
+                                "OperatingFlightNumber": 591,
+                                "OriginTerminal": null,
+                                "DestinationTerminal": null,
+                                "BookingClass": "O",
+                                "BookingCount": 9,
+                                "CabinClass": "E",
+                                "FareBasis": "OSQW14",
+                                "AirBaggageAllowance": "",
+                                "Equipment": "Boeing 73H"
+                            }
+                        ]
+                    }
+                ],
+                "FareBreakdown": [
+                    {
+                        "PassengerType": "ADT",
+                        "BaseFare": 191,
+                        "TotalTax": 20.5,
+                        "GrossFare": 211.5,
+                        "Discount": null,
+                        "Markup": null,
+                        "InvoiceFare": 211.5,
+                        "OtherServiceCharge": null
+                    },
+                    {
+                        "PassengerType": "CHD",
+                        "BaseFare": 191,
+                        "TotalTax": 20.5,
+                        "GrossFare": 211.5,
+                        "Discount": null,
+                        "Markup": null,
+                        "InvoiceFare": 211.5,
+                        "OtherServiceCharge": null
+                    },
+                    {
+                        "PassengerType": "INF",
+                        "BaseFare": 29,
+                        "TotalTax": 0,
+                        "GrossFare": 29,
+                        "Discount": null,
+                        "Markup": null,
+                        "InvoiceFare": 29,
+                        "OtherServiceCharge": null
+                    }
+                ],
+                "IteneraryRefID": "3792d99edb714a8db24900735089c649",
+                "FareType": "PUB",
+                "BasePrice": 411,
+                "TotalTax": 41,
+                "GrossFare": 452,
+                "Discount": null,
+                "Markup": null,
+                "InvoiceFare": 452
+            },
+            {
+                "Itinerary": [
+                    {
+                        "JourneyInfo": {
+                            "TotalTravelDurationInMinutes": "0D 16H 30M",
+                            "NoOfStop": 1
+                        },
+                        "OriginDestination": [
+                            {
+                                "AirSegment_Key": "BdMwhq8Q2BKAHZwlCAAAAA==",
+                                "Group": 0,
+                                "Carrier": "QF",
+                                "FlightNumber": 630,
+                                "OriginCode": "AVS",
+                                "OriginAirportName": "Melbourne",
+                                "DestinationCode": "OOL",
+                                "DestinationAirportName": "Gold Coast",
+                                "DepartureTime": "2022-08-29T16:05:00",
+                                "ArrivalTime": "2022-08-29T18:05:00",
+                                "TravelDurationInMinutes": 120,
+                                "Distance": 0,
+                                "LayoverTimeInMinutes": "",
+                                "AvailabilitySource": "A",
+                                "OperatingCarrier": "JQ",
+                                "OperatingFlightNumber": 630,
+                                "OriginTerminal": null,
+                                "DestinationTerminal": null,
+                                "BookingClass": "H",
+                                "BookingCount": 9,
+                                "CabinClass": "E",
+                                "FareBasis": "HLOW",
+                                "AirBaggageAllowance": "",
+                                "Equipment": "Airbus A320"
+                            },
+                            {
+                                "AirSegment_Key": "BdMwhq8Q2BKAHZwlCAAAAA==",
+                                "Group": 0,
+                                "Carrier": "QF",
+                                "FlightNumber": 591,
+                                "OriginCode": "OOL",
+                                "OriginAirportName": "Gold Coast",
+                                "DestinationCode": "SYD",
+                                "DestinationAirportName": "Sydney",
+                                "DepartureTime": "2022-08-30T07:05:00",
+                                "ArrivalTime": "2022-08-30T08:35:00",
+                                "TravelDurationInMinutes": 90,
+                                "Distance": 0,
+                                "LayoverTimeInMinutes": "13H 0M",
+                                "AvailabilitySource": "A",
+                                "OperatingCarrier": "QF",
+                                "OperatingFlightNumber": 591,
+                                "OriginTerminal": null,
+                                "DestinationTerminal": null,
+                                "BookingClass": "O",
+                                "BookingCount": 9,
+                                "CabinClass": "E",
+                                "FareBasis": "OSQW14",
+                                "AirBaggageAllowance": "",
+                                "Equipment": "Boeing 73H"
+                            }
+                        ]
+                    }
+                ],
+                "FareBreakdown": [
+                    {
+                        "PassengerType": "ADT",
+                        "BaseFare": 191,
+                        "TotalTax": 20.5,
+                        "GrossFare": 211.5,
+                        "Discount": null,
+                        "Markup": null,
+                        "InvoiceFare": 211.5,
+                        "OtherServiceCharge": null
+                    },
+                    {
+                        "PassengerType": "CHD",
+                        "BaseFare": 191,
+                        "TotalTax": 20.5,
+                        "GrossFare": 211.5,
+                        "Discount": null,
+                        "Markup": null,
+                        "InvoiceFare": 211.5,
+                        "OtherServiceCharge": null
+                    },
+                    {
+                        "PassengerType": "INF",
+                        "BaseFare": 29,
+                        "TotalTax": 0,
+                        "GrossFare": 29,
+                        "Discount": null,
+                        "Markup": null,
+                        "InvoiceFare": 29,
+                        "OtherServiceCharge": null
+                    }
+                ],
+                "IteneraryRefID": "113f4ccacd7d4c2dafb924365c1e395e",
+                "FareType": "PUB",
+                "BasePrice": 411,
+                "TotalTax": 41,
+                "GrossFare": 452,
+                "Discount": null,
+                "Markup": null,
+                "InvoiceFare": 452
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+.disabled{
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+    opacity: 0.4;
+}
+.cs-height-xs{
+    height: 2.3rem;
+}
+.cs-cm-30 .DateInput.DateInput_1{
+    margin: 1.8rem;    
+}
+.hidewWithDom{
+    height: 0;
+    overflow: hidden;
+    padding: 0;
+    transition: 0.3s all ease;
+}
